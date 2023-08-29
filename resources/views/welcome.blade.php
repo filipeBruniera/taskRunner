@@ -137,4 +137,7 @@
             </div>
         </div>
     </body>
+@php
+echo 'teste';
+@endphp
 </html>
